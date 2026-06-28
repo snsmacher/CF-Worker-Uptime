@@ -14,8 +14,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "uptime-db",
-      "database_id": "8cc4d5f1-fc03-43e9-a2f2-0047fd668e49"
+      "database_name": "monitor",
+      "database_id": "02161835-d404-4b76-92d9-2c6d5ac94de2"
     }
   ],
 
